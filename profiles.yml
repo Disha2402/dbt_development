@@ -8,11 +8,11 @@ default:
       type: snowflake
       account: vs39043.ap-south-1.aws
       user: DBT_CLOUD_DEV
-      password: abc123
+      password: Dishachourikar5936
       role: TRANSFORMER_DEV
       database: DEV
       warehouse: TRANSFORMING
-      schema: Disha2402
+      schema: dbt_Disha2402
       threads: 1
       client_session_keep_alive: False
 
